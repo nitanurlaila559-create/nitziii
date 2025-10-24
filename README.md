@@ -1,0 +1,2 @@
+# nitziii
+belajar upload kiCad
